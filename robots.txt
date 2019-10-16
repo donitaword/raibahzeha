@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://einootonei.textswitchfoot.com/sitemap.xml
